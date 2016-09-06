@@ -1,0 +1,2 @@
+# Photomatique
+Cabine photos
